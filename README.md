@@ -1,5 +1,5 @@
 # Repo NZL
-Repo NZLt
+Repo NZL
 
 zweite Schritte in GitHub
 
