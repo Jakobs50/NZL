@@ -1,6 +1,6 @@
-# Jakobs50.github.io
-Initial Project
+# Repo NZL
+Repo NZLt
 
-erste Schritte in GitHub
+zweite Schritte in GitHub
 
-![nur ein Beispiel](https://commons.wikimedia.org/wiki/File:Example_de.jpg "Beispielbild")
+![Strand](nzl.jpg "Strandbild")
